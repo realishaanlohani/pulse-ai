@@ -1,0 +1,836 @@
+{
+  "a54f9981": {
+    "profile": {
+      "name": "Ishaan",
+      "age": 18,
+      "gender": "Male",
+      "weight_kg": 68.0,
+      "height_cm": 175,
+      "goal": "\ud83d\udcaa Muscle Gain",
+      "activity_level": "Moderately active (3-5 days/week)",
+      "diet_type": "Vegetarian",
+      "health_conditions": [
+        "None"
+      ],
+      "sleep_hours": 6,
+      "water_intake": "1-2L",
+      "free_start": "06:00 AM",
+      "free_end": "08:00 AM",
+      "available_minutes": 60,
+      "waist_cm": null,
+      "hip_cm": null,
+      "stress_level": "Moderate",
+      "fitness_experience": "Beginner (never worked out consistently)",
+      "equipment": [
+        "No equipment (bodyweight only)"
+      ],
+      "updated_at": "2026-03-19T16:42:40.683855"
+    },
+    "week_1": {
+      "profile": {
+        "name": "Ishaan",
+        "age": 18,
+        "gender": "Male",
+        "weight_kg": 68.0,
+        "height_cm": 175,
+        "goal": "\ud83d\udcaa Muscle Gain",
+        "activity_level": "Moderately active (3-5 days/week)",
+        "diet_type": "Vegetarian",
+        "health_conditions": [
+          "None"
+        ],
+        "sleep_hours": 6,
+        "water_intake": "1-2L",
+        "free_start": "06:00 AM",
+        "free_end": "08:00 AM",
+        "available_minutes": 60,
+        "waist_cm": null,
+        "hip_cm": null,
+        "stress_level": "Moderate",
+        "fitness_experience": "Beginner (never worked out consistently)",
+        "equipment": [
+          "No equipment (bodyweight only)"
+        ],
+        "updated_at": "2026-03-19T16:42:40.683855"
+      },
+      "analysis": {
+        "bmi": 24.2,
+        "bmi_category": "Normal weight",
+        "summary": "Your body is in a good baseline state. With consistent effort toward your goal, you will see meaningful changes within 4-6 weeks.",
+        "body_fat_estimate": "18-22%",
+        "tdee_calories": 2100,
+        "health_flags": [
+          "Stay hydrated",
+          "Prioritize sleep"
+        ],
+        "nutrient_priorities": {
+          "Protein": {
+            "daily_grams": 140,
+            "priority": 95,
+            "reason": "Essential for muscle repair and growth"
+          },
+          "Vitamin D": {
+            "daily_iu": 2000,
+            "priority": 85,
+            "reason": "Supports bone density and immunity"
+          },
+          "Iron": {
+            "daily_mg": 18,
+            "priority": 70,
+            "reason": "Prevents fatigue and supports oxygen transport"
+          },
+          "Calcium": {
+            "daily_mg": 1000,
+            "priority": 65,
+            "reason": "Bone health and muscle function"
+          },
+          "Magnesium": {
+            "daily_mg": 400,
+            "priority": 60,
+            "reason": "Sleep quality and muscle recovery"
+          },
+          "Vitamin C": {
+            "daily_mg": 90,
+            "priority": 60,
+            "reason": "Immunity and collagen synthesis"
+          },
+          "Vitamin A": {
+            "daily_mcg": 900,
+            "priority": 55,
+            "reason": "Vision and immune function"
+          },
+          "Vitamin E": {
+            "daily_mg": 15,
+            "priority": 50,
+            "reason": "Antioxidant protection"
+          }
+        },
+        "motivational_insight": "You are one consistent week away from feeling a real difference."
+      },
+      "diet_plan": {
+        "daily_calories_target": 2100,
+        "macro_split": {
+          "protein_pct": 30,
+          "carbs_pct": 45,
+          "fat_pct": 25
+        },
+        "key_foods": [
+          {
+            "food": "Boiled Eggs",
+            "why": "Complete protein + B12",
+            "servings": "3 eggs/day",
+            "nutrients": [
+              "Protein: 18g",
+              "Vitamin B12",
+              "Choline"
+            ],
+            "emoji": "\ud83e\udd5a"
+          },
+          {
+            "food": "Salmon / Tuna",
+            "why": "Omega-3 + Vitamin D",
+            "servings": "150g, 3x/week",
+            "nutrients": [
+              "Protein: 30g",
+              "Vitamin D",
+              "Omega-3"
+            ],
+            "emoji": "\ud83d\udc1f"
+          },
+          {
+            "food": "Spinach",
+            "why": "Iron + Vitamin C",
+            "servings": "1 cup daily",
+            "nutrients": [
+              "Iron: 6mg",
+              "Vitamin C",
+              "Folate"
+            ],
+            "emoji": "\ud83e\udd6c"
+          },
+          {
+            "food": "Greek Yogurt",
+            "why": "Calcium + Probiotics",
+            "servings": "200g/day",
+            "nutrients": [
+              "Protein: 17g",
+              "Calcium",
+              "Probiotics"
+            ],
+            "emoji": "\ud83e\uded9"
+          },
+          {
+            "food": "Sweet Potato",
+            "why": "Vitamin A + Energy",
+            "servings": "1 medium/day",
+            "nutrients": [
+              "Vitamin A",
+              "Complex carbs",
+              "Potassium"
+            ],
+            "emoji": "\ud83c\udf60"
+          },
+          {
+            "food": "Almonds",
+            "why": "Vitamin E + Magnesium",
+            "servings": "30g/day",
+            "nutrients": [
+              "Vitamin E: 7mg",
+              "Magnesium",
+              "Healthy fats"
+            ],
+            "emoji": "\ud83c\udf30"
+          }
+        ],
+        "meal_schedule": {
+          "breakfast": "3 boiled eggs + 1 slice whole wheat toast + 1 banana",
+          "mid_morning": "Greek yogurt + handful of almonds",
+          "lunch": "Grilled chicken / tofu + brown rice + spinach salad",
+          "evening_snack": "Sweet potato + cottage cheese",
+          "dinner": "Salmon / paneer + steamed vegetables + quinoa"
+        },
+        "weekly_tip": "Prep your meals on Sunday to stay consistent throughout the week."
+      },
+      "exercise_plan": {
+        "total_minutes_per_day": 45,
+        "intensity": "Moderate",
+        "week_plan": {
+          "Day 1": {
+            "day_name": "Monday",
+            "focus": "Upper Body",
+            "is_rest": false,
+            "warmup": "5 min jumping jacks",
+            "cooldown": "5 min stretching",
+            "total_duration_minutes": 40,
+            "exercises": [
+              {
+                "name": "Push-ups",
+                "sets": 3,
+                "reps": "12",
+                "rest_seconds": 60,
+                "muscle_group": "Chest",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Dumbbell Rows",
+                "sets": 3,
+                "reps": "10 each",
+                "rest_seconds": 60,
+                "muscle_group": "Back",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Shoulder Press",
+                "sets": 3,
+                "reps": "10",
+                "rest_seconds": 60,
+                "muscle_group": "Shoulders",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Plank",
+                "sets": 3,
+                "reps": "30 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Core",
+                "duration_minutes": 6
+              }
+            ]
+          },
+          "Day 2": {
+            "day_name": "Tuesday",
+            "focus": "Cardio",
+            "is_rest": false,
+            "warmup": "5 min walk",
+            "cooldown": "5 min stretching",
+            "total_duration_minutes": 40,
+            "exercises": [
+              {
+                "name": "Brisk Walk / Jog",
+                "sets": 1,
+                "reps": "20 min",
+                "rest_seconds": 0,
+                "muscle_group": "Cardio",
+                "duration_minutes": 20
+              },
+              {
+                "name": "Jumping Jacks",
+                "sets": 3,
+                "reps": "30",
+                "rest_seconds": 45,
+                "muscle_group": "Full Body",
+                "duration_minutes": 8
+              },
+              {
+                "name": "High Knees",
+                "sets": 3,
+                "reps": "30 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Cardio",
+                "duration_minutes": 7
+              }
+            ]
+          },
+          "Day 3": {
+            "day_name": "Wednesday",
+            "focus": "Rest / Light Stretch",
+            "is_rest": true,
+            "warmup": "",
+            "cooldown": "",
+            "total_duration_minutes": 0,
+            "exercises": []
+          },
+          "Day 4": {
+            "day_name": "Thursday",
+            "focus": "Lower Body",
+            "is_rest": false,
+            "warmup": "5 min light jog",
+            "cooldown": "5 min stretching",
+            "total_duration_minutes": 45,
+            "exercises": [
+              {
+                "name": "Squats",
+                "sets": 4,
+                "reps": "15",
+                "rest_seconds": 60,
+                "muscle_group": "Quads/Glutes",
+                "duration_minutes": 10
+              },
+              {
+                "name": "Lunges",
+                "sets": 3,
+                "reps": "12 each",
+                "rest_seconds": 60,
+                "muscle_group": "Legs",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Glute Bridges",
+                "sets": 3,
+                "reps": "15",
+                "rest_seconds": 45,
+                "muscle_group": "Glutes",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Calf Raises",
+                "sets": 3,
+                "reps": "20",
+                "rest_seconds": 45,
+                "muscle_group": "Calves",
+                "duration_minutes": 5
+              }
+            ]
+          },
+          "Day 5": {
+            "day_name": "Friday",
+            "focus": "Full Body HIIT",
+            "is_rest": false,
+            "warmup": "5 min dynamic stretch",
+            "cooldown": "5 min cool down",
+            "total_duration_minutes": 40,
+            "exercises": [
+              {
+                "name": "Burpees",
+                "sets": 3,
+                "reps": "10",
+                "rest_seconds": 60,
+                "muscle_group": "Full Body",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Mountain Climbers",
+                "sets": 3,
+                "reps": "30 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Core/Cardio",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Jump Squats",
+                "sets": 3,
+                "reps": "12",
+                "rest_seconds": 60,
+                "muscle_group": "Legs/Power",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Push-up to T",
+                "sets": 3,
+                "reps": "8 each",
+                "rest_seconds": 60,
+                "muscle_group": "Chest/Core",
+                "duration_minutes": 8
+              }
+            ]
+          },
+          "Day 6": {
+            "day_name": "Saturday",
+            "focus": "Core & Flexibility",
+            "is_rest": false,
+            "warmup": "5 min walk",
+            "cooldown": "10 min yoga",
+            "total_duration_minutes": 35,
+            "exercises": [
+              {
+                "name": "Plank Variations",
+                "sets": 3,
+                "reps": "45 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Core",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Bicycle Crunches",
+                "sets": 3,
+                "reps": "20",
+                "rest_seconds": 45,
+                "muscle_group": "Abs",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Dead Bug",
+                "sets": 3,
+                "reps": "10 each",
+                "rest_seconds": 45,
+                "muscle_group": "Core",
+                "duration_minutes": 7
+              }
+            ]
+          },
+          "Day 7": {
+            "day_name": "Sunday",
+            "focus": "Rest",
+            "is_rest": true,
+            "warmup": "",
+            "cooldown": "",
+            "total_duration_minutes": 0,
+            "exercises": []
+          }
+        },
+        "weekly_tip": "Consistency beats perfection. Show up every day, even on rest days, with intention."
+      },
+      "free_start": "06:00 AM",
+      "free_end": "08:00 AM",
+      "week": 1,
+      "timestamp": "2026-03-19T16:42:40.684423"
+    }
+  },
+  "95e3a860": {
+    "profile": {
+      "name": "shan",
+      "age": 22,
+      "gender": "Male",
+      "weight_kg": 68.0,
+      "height_cm": 170,
+      "goal": "\ud83c\udfc3 Athletic Performance",
+      "activity_level": "Lightly active (1-3 days/week)",
+      "diet_type": "Gluten-free",
+      "health_conditions": [
+        "None"
+      ],
+      "sleep_hours": 7,
+      "water_intake": "Less than 1L",
+      "free_start": "06:00 AM",
+      "free_end": "08:00 AM",
+      "available_minutes": 60,
+      "waist_cm": null,
+      "hip_cm": null,
+      "stress_level": "Moderate",
+      "fitness_experience": "Beginner (never worked out consistently)",
+      "equipment": [
+        "No equipment (bodyweight only)"
+      ],
+      "updated_at": "2026-03-19T16:43:51.216299"
+    },
+    "week_1": {
+      "profile": {
+        "name": "shan",
+        "age": 22,
+        "gender": "Male",
+        "weight_kg": 68.0,
+        "height_cm": 170,
+        "goal": "\ud83c\udfc3 Athletic Performance",
+        "activity_level": "Lightly active (1-3 days/week)",
+        "diet_type": "Gluten-free",
+        "health_conditions": [
+          "None"
+        ],
+        "sleep_hours": 7,
+        "water_intake": "Less than 1L",
+        "free_start": "06:00 AM",
+        "free_end": "08:00 AM",
+        "available_minutes": 60,
+        "waist_cm": null,
+        "hip_cm": null,
+        "stress_level": "Moderate",
+        "fitness_experience": "Beginner (never worked out consistently)",
+        "equipment": [
+          "No equipment (bodyweight only)"
+        ],
+        "updated_at": "2026-03-19T16:43:51.216299"
+      },
+      "analysis": {
+        "bmi": 24.2,
+        "bmi_category": "Normal weight",
+        "summary": "Your body is in a good baseline state. With consistent effort toward your goal, you will see meaningful changes within 4-6 weeks.",
+        "body_fat_estimate": "18-22%",
+        "tdee_calories": 2100,
+        "health_flags": [
+          "Stay hydrated",
+          "Prioritize sleep"
+        ],
+        "nutrient_priorities": {
+          "Protein": {
+            "daily_grams": 140,
+            "priority": 95,
+            "reason": "Essential for muscle repair and growth"
+          },
+          "Vitamin D": {
+            "daily_iu": 2000,
+            "priority": 85,
+            "reason": "Supports bone density and immunity"
+          },
+          "Iron": {
+            "daily_mg": 18,
+            "priority": 70,
+            "reason": "Prevents fatigue and supports oxygen transport"
+          },
+          "Calcium": {
+            "daily_mg": 1000,
+            "priority": 65,
+            "reason": "Bone health and muscle function"
+          },
+          "Magnesium": {
+            "daily_mg": 400,
+            "priority": 60,
+            "reason": "Sleep quality and muscle recovery"
+          },
+          "Vitamin C": {
+            "daily_mg": 90,
+            "priority": 60,
+            "reason": "Immunity and collagen synthesis"
+          },
+          "Vitamin A": {
+            "daily_mcg": 900,
+            "priority": 55,
+            "reason": "Vision and immune function"
+          },
+          "Vitamin E": {
+            "daily_mg": 15,
+            "priority": 50,
+            "reason": "Antioxidant protection"
+          }
+        },
+        "motivational_insight": "You are one consistent week away from feeling a real difference."
+      },
+      "diet_plan": {
+        "daily_calories_target": 2100,
+        "macro_split": {
+          "protein_pct": 30,
+          "carbs_pct": 45,
+          "fat_pct": 25
+        },
+        "key_foods": [
+          {
+            "food": "Boiled Eggs",
+            "why": "Complete protein + B12",
+            "servings": "3 eggs/day",
+            "nutrients": [
+              "Protein: 18g",
+              "Vitamin B12",
+              "Choline"
+            ],
+            "emoji": "\ud83e\udd5a"
+          },
+          {
+            "food": "Salmon / Tuna",
+            "why": "Omega-3 + Vitamin D",
+            "servings": "150g, 3x/week",
+            "nutrients": [
+              "Protein: 30g",
+              "Vitamin D",
+              "Omega-3"
+            ],
+            "emoji": "\ud83d\udc1f"
+          },
+          {
+            "food": "Spinach",
+            "why": "Iron + Vitamin C",
+            "servings": "1 cup daily",
+            "nutrients": [
+              "Iron: 6mg",
+              "Vitamin C",
+              "Folate"
+            ],
+            "emoji": "\ud83e\udd6c"
+          },
+          {
+            "food": "Greek Yogurt",
+            "why": "Calcium + Probiotics",
+            "servings": "200g/day",
+            "nutrients": [
+              "Protein: 17g",
+              "Calcium",
+              "Probiotics"
+            ],
+            "emoji": "\ud83e\uded9"
+          },
+          {
+            "food": "Sweet Potato",
+            "why": "Vitamin A + Energy",
+            "servings": "1 medium/day",
+            "nutrients": [
+              "Vitamin A",
+              "Complex carbs",
+              "Potassium"
+            ],
+            "emoji": "\ud83c\udf60"
+          },
+          {
+            "food": "Almonds",
+            "why": "Vitamin E + Magnesium",
+            "servings": "30g/day",
+            "nutrients": [
+              "Vitamin E: 7mg",
+              "Magnesium",
+              "Healthy fats"
+            ],
+            "emoji": "\ud83c\udf30"
+          }
+        ],
+        "meal_schedule": {
+          "breakfast": "3 boiled eggs + 1 slice whole wheat toast + 1 banana",
+          "mid_morning": "Greek yogurt + handful of almonds",
+          "lunch": "Grilled chicken / tofu + brown rice + spinach salad",
+          "evening_snack": "Sweet potato + cottage cheese",
+          "dinner": "Salmon / paneer + steamed vegetables + quinoa"
+        },
+        "weekly_tip": "Prep your meals on Sunday to stay consistent throughout the week."
+      },
+      "exercise_plan": {
+        "total_minutes_per_day": 45,
+        "intensity": "Moderate",
+        "week_plan": {
+          "Day 1": {
+            "day_name": "Monday",
+            "focus": "Upper Body",
+            "is_rest": false,
+            "warmup": "5 min jumping jacks",
+            "cooldown": "5 min stretching",
+            "total_duration_minutes": 40,
+            "exercises": [
+              {
+                "name": "Push-ups",
+                "sets": 3,
+                "reps": "12",
+                "rest_seconds": 60,
+                "muscle_group": "Chest",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Dumbbell Rows",
+                "sets": 3,
+                "reps": "10 each",
+                "rest_seconds": 60,
+                "muscle_group": "Back",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Shoulder Press",
+                "sets": 3,
+                "reps": "10",
+                "rest_seconds": 60,
+                "muscle_group": "Shoulders",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Plank",
+                "sets": 3,
+                "reps": "30 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Core",
+                "duration_minutes": 6
+              }
+            ]
+          },
+          "Day 2": {
+            "day_name": "Tuesday",
+            "focus": "Cardio",
+            "is_rest": false,
+            "warmup": "5 min walk",
+            "cooldown": "5 min stretching",
+            "total_duration_minutes": 40,
+            "exercises": [
+              {
+                "name": "Brisk Walk / Jog",
+                "sets": 1,
+                "reps": "20 min",
+                "rest_seconds": 0,
+                "muscle_group": "Cardio",
+                "duration_minutes": 20
+              },
+              {
+                "name": "Jumping Jacks",
+                "sets": 3,
+                "reps": "30",
+                "rest_seconds": 45,
+                "muscle_group": "Full Body",
+                "duration_minutes": 8
+              },
+              {
+                "name": "High Knees",
+                "sets": 3,
+                "reps": "30 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Cardio",
+                "duration_minutes": 7
+              }
+            ]
+          },
+          "Day 3": {
+            "day_name": "Wednesday",
+            "focus": "Rest / Light Stretch",
+            "is_rest": true,
+            "warmup": "",
+            "cooldown": "",
+            "total_duration_minutes": 0,
+            "exercises": []
+          },
+          "Day 4": {
+            "day_name": "Thursday",
+            "focus": "Lower Body",
+            "is_rest": false,
+            "warmup": "5 min light jog",
+            "cooldown": "5 min stretching",
+            "total_duration_minutes": 45,
+            "exercises": [
+              {
+                "name": "Squats",
+                "sets": 4,
+                "reps": "15",
+                "rest_seconds": 60,
+                "muscle_group": "Quads/Glutes",
+                "duration_minutes": 10
+              },
+              {
+                "name": "Lunges",
+                "sets": 3,
+                "reps": "12 each",
+                "rest_seconds": 60,
+                "muscle_group": "Legs",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Glute Bridges",
+                "sets": 3,
+                "reps": "15",
+                "rest_seconds": 45,
+                "muscle_group": "Glutes",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Calf Raises",
+                "sets": 3,
+                "reps": "20",
+                "rest_seconds": 45,
+                "muscle_group": "Calves",
+                "duration_minutes": 5
+              }
+            ]
+          },
+          "Day 5": {
+            "day_name": "Friday",
+            "focus": "Full Body HIIT",
+            "is_rest": false,
+            "warmup": "5 min dynamic stretch",
+            "cooldown": "5 min cool down",
+            "total_duration_minutes": 40,
+            "exercises": [
+              {
+                "name": "Burpees",
+                "sets": 3,
+                "reps": "10",
+                "rest_seconds": 60,
+                "muscle_group": "Full Body",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Mountain Climbers",
+                "sets": 3,
+                "reps": "30 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Core/Cardio",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Jump Squats",
+                "sets": 3,
+                "reps": "12",
+                "rest_seconds": 60,
+                "muscle_group": "Legs/Power",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Push-up to T",
+                "sets": 3,
+                "reps": "8 each",
+                "rest_seconds": 60,
+                "muscle_group": "Chest/Core",
+                "duration_minutes": 8
+              }
+            ]
+          },
+          "Day 6": {
+            "day_name": "Saturday",
+            "focus": "Core & Flexibility",
+            "is_rest": false,
+            "warmup": "5 min walk",
+            "cooldown": "10 min yoga",
+            "total_duration_minutes": 35,
+            "exercises": [
+              {
+                "name": "Plank Variations",
+                "sets": 3,
+                "reps": "45 sec",
+                "rest_seconds": 45,
+                "muscle_group": "Core",
+                "duration_minutes": 8
+              },
+              {
+                "name": "Bicycle Crunches",
+                "sets": 3,
+                "reps": "20",
+                "rest_seconds": 45,
+                "muscle_group": "Abs",
+                "duration_minutes": 7
+              },
+              {
+                "name": "Dead Bug",
+                "sets": 3,
+                "reps": "10 each",
+                "rest_seconds": 45,
+                "muscle_group": "Core",
+                "duration_minutes": 7
+              }
+            ]
+          },
+          "Day 7": {
+            "day_name": "Sunday",
+            "focus": "Rest",
+            "is_rest": true,
+            "warmup": "",
+            "cooldown": "",
+            "total_duration_minutes": 0,
+            "exercises": []
+          }
+        },
+        "weekly_tip": "Consistency beats perfection. Show up every day, even on rest days, with intention."
+      },
+      "free_start": "06:00 AM",
+      "free_end": "08:00 AM",
+      "week": 1,
+      "timestamp": "2026-03-19T16:43:51.217503"
+    }
+  }
+}
